@@ -1,6 +1,5 @@
 name: "Feature request"
 description: "Propose something new. Specific proposals ship. Vague ones wait."
-labels: ["2-discussing"]
 type: "Feature"
 body:
   - type: markdown
